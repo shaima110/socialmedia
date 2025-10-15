@@ -40,3 +40,5 @@ A **Spring Boot REST API** for managing social media posts with full **CRUD func
    ```bash
    git clone https://github.com/your-username/social-media-posts.git
    cd social-media-posts
+
+   http://localhost:8090/swagger-ui/index.html
